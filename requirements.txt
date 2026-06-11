@@ -1,2 +1,6 @@
 streamlit
 python-docx
+pandas
+reportlab
+openai>=1.0.0
+python-dotenv
